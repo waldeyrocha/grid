@@ -1,5 +1,5 @@
 
-# Cheesecake Recipe - Responsive Web Page
+# Grid Layout Demo
 
 # Hi, I'm Waldey! 👋
 
